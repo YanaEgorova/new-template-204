@@ -60,7 +60,7 @@
     max-width: 70rem;
     margin: 0 auto;
     width: fit-content;
-    background-color: #fd7b1f;
+    background-color: var(--fourth-brand-color);
     border-radius: 3rem;
 }
 
