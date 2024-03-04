@@ -279,7 +279,7 @@ overflow: hidden;
 
 
     .policy {
-        padding: 25rem 0;
+        padding: 15rem 0;
         border: .5rem solid var(--main-text-color);
     }
     .policy__box {
@@ -289,6 +289,8 @@ overflow: hidden;
     .policy__block--top {
         margin-bottom: 0;
         margin-right: 15rem;
+
+        margin: 0 auto;
     }
 }
 
